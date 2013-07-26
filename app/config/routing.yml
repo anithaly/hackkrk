@@ -1,0 +1,5 @@
+hackkrk_apihack:
+    resource: "@HackkrkApihackBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
